@@ -45,7 +45,7 @@ hi Function ctermfg=215 ctermbg=NONE cterm=NONE guifg=#efac32 guibg=NONE gui=NON
 hi Identifier ctermfg=203 ctermbg=NONE cterm=NONE guifg=#ef5d32 guibg=NONE gui=NONE
 hi Keyword ctermfg=203 ctermbg=NONE cterm=NONE guifg=#ef5d32 guibg=NONE gui=NONE
 hi Label ctermfg=185 ctermbg=NONE cterm=NONE guifg=#d9d762 guibg=NONE gui=italic
-hi NonText ctermfg=58 ctermbg=58 cterm=NONE guifg=#42302d guibg=#40302d gui=NONE
+hi NonText ctermfg=58 ctermbg=NONE cterm=NONE guifg=#42302d guibg=#40302d gui=NONE
 hi Number ctermfg=67 ctermbg=NONE cterm=NONE guifg=#6c99bb guibg=NONE gui=NONE
 hi Operator ctermfg=203 ctermbg=NONE cterm=NONE guifg=#ef5d32 guibg=NONE gui=NONE
 hi PreProc ctermfg=203 ctermbg=NONE cterm=NONE guifg=#ef5d32 guibg=NONE gui=NONE
